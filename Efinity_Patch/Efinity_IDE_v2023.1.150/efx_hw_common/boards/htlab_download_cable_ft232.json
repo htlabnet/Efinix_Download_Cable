@@ -1,0 +1,34 @@
+{
+    "name": "HTLAB.NET Efinix Download Cable (FT232H)",
+    "programmer": {
+        "programmer_type": "ftdi_program",
+        "supported_mode": ["SPI Active", "SPI Passive", "JTAG", "SPI Active using JTAG Bridge"]
+    },
+    "usb": {
+        "vid": "0x1209",
+        "pid": "0xEFD1",
+        "desc": "HTLAB.NET *"
+    },
+    "pinout": {
+        "CBUS0": "",
+        "CBUS1": "",
+        "CBUS2": "",
+        "CCK": "FTDI_ADBUS0",
+        "CDI0": "FTDI_ADBUS1",
+        "CDI1": "FTDI_ADBUS2",
+        "CDI2": "",
+        "CDI3": "",
+        "SS": "FTDI_ADBUS3",
+        "CRESET_N": "FTDI_ADBUS4",
+        "CONDONE": "FTDI_ADBUS5",
+        "HOLD": "FTDI_ADBUS6",
+        "TCK": "FTDI_BDBUS0",
+        "TDI": "FTDI_BDBUS1",
+        "TDO": "FTDI_BDBUS2",
+        "TMS": "FTDI_BDBUS3"
+    },
+    "init": {
+        "val": "",
+        "dir": ""
+    }
+}

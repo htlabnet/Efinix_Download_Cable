@@ -1,0 +1,32 @@
+23a24,28
+> from pyftdi.ftdi import Ftdi
+> Ftdi.add_custom_vendor(0x1209, 'hiftdi')
+> Ftdi.add_custom_product(0x1209, 0xEFD1, 'ft232h')
+> Ftdi.add_custom_product(0x1209, 0xEFD2, 'ft2232')
+> Ftdi.add_custom_product(0x1209, 0xEFD4, 'ft4232')
+36a42
+>     (0x1209, 0xEFD1): ("ftdi", "FT232H", 1, 1),
+38a45,46
+>     (0x1209, 0xEFD2): ("ftdi", "FT2232", 1 if SWAP_INTERFACES else 2,
+>                        2 if SWAP_INTERFACES else 1),
+40a49,50
+>     (0x1209, 0xEFD4): ("ftdi", "FT4232", 1 if SWAP_INTERFACES else 2,
+>                        2 if SWAP_INTERFACES else 1),
+182a193,194
+>             elif product == 0xEFD1:
+>                 num_interfaces = 1
+184a197,198
+>             elif product == 0xEFD2:
+>                 num_interfaces = 2
+186a201,202
+>             elif product == 0xEFD4:
+>                 num_interfaces = 4
+301a318,319
+>                 elif product == 0xEFD1:
+>                     num_interfaces = 1
+303a322,323
+>                 elif product == 0xEFD2:
+>                     num_interfaces = 2
+304a325,326
+>                     num_interfaces = 4
+>                 elif product == 0xEFD4:
