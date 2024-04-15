@@ -2,7 +2,8 @@
 # HTLAB.NET Efinix Download Cable
 
 
-![HTLAB.NET Efinix Download Cable Prototype](Document/Picture/ft232_download_cable_prototype.jpg)
+![HTLAB.NET Efinix Download Cable Ver1 Front](Document/Picture/ft2232h_download_cable_v1_front.jpg) 
+![HTLAB.NET Efinix Download Cable Ver1 Rear](Document/Picture/ft2232h_download_cable_v1_rear.jpg)
 
 
 This repository is intended to create cables for programming Efinix FPGAs for which no official download cables exist.
