@@ -4,7 +4,7 @@ cd /d %~dp0
 
 
 set TARGET_FOLDER=C:\Efinity\Programmer\2023.2\pgm\bin\efx_pgm
-set PATCH_COMMAND=C:\Program Files\WinMerge\Commands\GnuWin32\bin\patch.exe
+set PATCH_COMMAND=C:\Program Files\WinMerge\Commands\msys2\usr\bin\patch.exe
 
 
 rem ###### Running a command as Administrator ######
