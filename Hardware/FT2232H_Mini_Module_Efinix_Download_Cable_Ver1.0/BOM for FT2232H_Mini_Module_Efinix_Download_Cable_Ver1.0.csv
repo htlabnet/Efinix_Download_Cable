@@ -1,13 +1,13 @@
 Comment,Description,Designator,Footprint,LibRef,Quantity,Value,LCSC Part #
-,,,,,,,
-CAP_1608,Capacitor 1608,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11",C1608_N,CAP_1608,11,0.1uF,C14663
-SS2040FL,Schottky Rectifier SOD-123FL,"D1, D2",SOD-123F_N,SS2040FL,2,,C190475
-RES_AR3216,"Resistor Array, CAT16-J4 / EXB-V8V","R1, R2, R3, R4",AR8_3216_N,RES_AR3216,4,10,C425237
-RES_1608,Resistor 1608,"R5, R6, R7, R8",R1608_N,RES_1608,4,1K,C21190
-RES_1608,Resistor 1608,"R9, R10, R11, R12, R13",R1608_N,RES_1608,5,100K,C25803
-RES_1608,Resistor 1608,"R14, R15",R1608_N,RES_1608,2,10,C22859
-RES_1608,Resistor 1608,R16,R1608_N,RES_1608,1,10K,C25804
-RES_1608,Resistor 1608,R17,R1608_N,RES_1608,1,2.2K,C4190
-SN74AVC4T774PWR,4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs,"U1, U2, U3, U4",TSSOP-16_N,SN74AVC4T774PWR,4,,C129363
-SN74LVC1T45DBVR,Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage  Translation and 3-State Outputs,"U5, U6",SOT-23-6_N,SN74LVC1T45DBVR,2,,C7843
-SN74LVC2G07DBVR,Dual Buffer and Driver With Open-Drain Outputs,U7,SOT-23-6_N,SN74LVC2G07DBVR,1,,C37708
+
+"CAP_1608","Capacitor 1608","C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11","C1608_N","CAP_1608","11","0.1uF","C14663"
+"SS2040FL","Schottky Rectifier SOD-123FL","D1, D2","SOD-123F_N","SS2040FL","2","","C190475"
+"RES_AR3216","Resistor Array, CAT16-J4 / EXB-V8V","R1, R2, R3, R4","AR8_3216_N","RES_AR3216","4","10R","C425237"
+"RES_1608","Resistor 1608","R5, R6, R7, R8","R1608_N","RES_1608","4","1K","C21190"
+"RES_1608","Resistor 1608","R9, R10, R11, R12, R13","R1608_N","RES_1608","5","100K","C25803"
+"RES_1608","Resistor 1608","R14, R15","R1608_N","RES_1608","2","10R","C22859"
+"RES_1608","Resistor 1608","R16","R1608_N","RES_1608","1","10K","C25804"
+"RES_1608","Resistor 1608","R17","R1608_N","RES_1608","1","2.2K","C4190"
+"SN74AVC4T774PWR","4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs","U1, U2, U3, U4","TSSOP-16_N","SN74AVC4T774PWR","4","","C129363"
+"SN74LVC1T45DBVR","Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage  Translation and 3-State Outputs","U5, U6","SOT-23-6_N","SN74LVC1T45DBVR","2","","C7843"
+"SN74LVC2G07DBVR","Dual Buffer and Driver With Open-Drain Outputs","U7","SOT-23-6_N","SN74LVC2G07DBVR","1","","C37708"

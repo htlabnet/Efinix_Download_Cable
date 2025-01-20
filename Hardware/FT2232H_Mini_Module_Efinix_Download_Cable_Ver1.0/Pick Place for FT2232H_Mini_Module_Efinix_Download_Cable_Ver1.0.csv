@@ -1,50 +1,57 @@
-Altium Designer Pick and Place Locations,,,,,,,
-Pick Place for FT2232H_Mini_Module_Efinix_Download_Cable_Ver1.0.csv,,,,,,,
-,,,,,,,
-========================================================================================================================,,,,,,,
-File Design Information:,,,,,,,
-,,,,,,,
-Date:       08/05/24,,,,,,,
-Time:       09:56,,,,,,,
-Revision:   Not in VersionControl,,,,,,,
-Variant:    No variations,,,,,,,
-Units used: mm,,,,,,,
-,,,,,,,
-Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
-R10,RES_1608,TopLayer,R1608_N,114.3,82.2,0,Resistor 1608
-R9,RES_1608,TopLayer,R1608_N,114.3,136.2,0,Resistor 1608
-C11,CAP_1608,TopLayer,C1608_N,133.35,97.2,0,Capacitor 1608
-C10,CAP_1608,TopLayer,C1608_N,120.65,97.2,0,Capacitor 1608
-C9,CAP_1608,TopLayer,C1608_N,120.65,107.36,0,Capacitor 1608
-C8,CAP_1608,TopLayer,C1608_N,120.65,121.2,0,Capacitor 1608
-C7,CAP_1608,TopLayer,C1608_N,120.65,131.36,0,Capacitor 1608
-C6,CAP_1608,TopLayer,C1608_N,54.61,131.445,90,Capacitor 1608
-C5,CAP_1608,TopLayer,C1608_N,54.61,86.995,90,Capacitor 1608
-C4,CAP_1608,TopLayer,C1608_N,114.3,97.2,0,Capacitor 1608
-C3,CAP_1608,TopLayer,C1608_N,114.3,107.36,0,Capacitor 1608
-C2,CAP_1608,TopLayer,C1608_N,114.3,121.2,0,Capacitor 1608
-C1,CAP_1608,TopLayer,C1608_N,114.3,131.36,0,Capacitor 1608
-R17,RES_1608,TopLayer,R1608_N,71.12,131.445,270,Resistor 1608
-R16,RES_1608,TopLayer,R1608_N,73.66,131.445,270,Resistor 1608
-R15,RES_1608,TopLayer,R1608_N,101.6,97.2,0,Resistor 1608
-R14,RES_1608,TopLayer,R1608_N,101.6,121.2,0,Resistor 1608
-R13,RES_1608,TopLayer,R1608_N,133.35,102.28,180,Resistor 1608
-R12,RES_1608,TopLayer,R1608_N,133.35,116.12,180,Resistor 1608
-R11,RES_1608,TopLayer,R1608_N,133.35,126.28,180,Resistor 1608
-R8,RES_1608,TopLayer,R1608_N,133.35,86.28,0,Resistor 1608
-R7,RES_1608,TopLayer,R1608_N,133.35,81.2,0,Resistor 1608
-R6,RES_1608,TopLayer,R1608_N,133.35,132.12,0,Resistor 1608
-R5,RES_1608,TopLayer,R1608_N,133.35,137.2,0,Resistor 1608
-R4,RES_AR3216,TopLayer,AR8_3216_N,127,92.12,90,"Resistor Array, CAT16-J4 / EXB-V8V"
-R3,RES_AR3216,TopLayer,AR8_3216_N,127,102.28,90,"Resistor Array, CAT16-J4 / EXB-V8V"
-R2,RES_AR3216,TopLayer,AR8_3216_N,127,116.12,90,"Resistor Array, CAT16-J4 / EXB-V8V"
-R1,RES_AR3216,TopLayer,AR8_3216_N,127,126.28,90,"Resistor Array, CAT16-J4 / EXB-V8V"
-U4,SN74AVC4T774PWR,TopLayer,TSSOP-16_N,114.3,92.12,270,4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs
-U3,SN74AVC4T774PWR,TopLayer,TSSOP-16_N,114.3,102.28,270,4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs
-U2,SN74AVC4T774PWR,TopLayer,TSSOP-16_N,114.3,116.12,270,4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs
-U1,SN74AVC4T774PWR,TopLayer,TSSOP-16_N,114.3,126.28,270,4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs
-U7,SN74LVC2G07DBVR,TopLayer,SOT-23-6_N,133.35,92.12,180,Dual Buffer and Driver With Open-Drain Outputs
-D1,SS2040FL,TopLayer,SOD-123F_N,133.35,111.2,0,Schottky Rectifier SOD-123FL
-D2,SS2040FL,TopLayer,SOD-123F_N,133.35,107.2,0,Schottky Rectifier SOD-123FL
-U5,SN74LVC1T45DBVR,TopLayer,SOT-23-6_N,127,136.2,180,Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage  Translation and 3-State Outputs
-U6,SN74LVC1T45DBVR,TopLayer,SOT-23-6_N,127,82.2,180,Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage  Translation and 3-State Outputs
+Altium Designer Pick and Place Locations
+Pick Place for FT2232H_Mini_Module_Efinix_Download_Cable_Ver1.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/01/25
+Time:       23:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U6","SN74LVC1T45DBVR","TopLayer","SOT-23-6_N","127.0000","82.2000","180","Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage  Translation and 3-State Outputs"
+"U5","SN74LVC1T45DBVR","TopLayer","SOT-23-6_N","127.0000","136.2000","180","Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage  Translation and 3-State Outputs"
+"D2","SS2040FL","TopLayer","SOD-123F_N","133.3500","107.2000","0","Schottky Rectifier SOD-123FL"
+"D1","SS2040FL","TopLayer","SOD-123F_N","133.3500","111.2000","0","Schottky Rectifier SOD-123FL"
+"U7","SN74LVC2G07DBVR","TopLayer","SOT-23-6_N","133.3500","92.1200","180","Dual Buffer and Driver With Open-Drain Outputs"
+"LED2","SSF-LXH240IGD","TopLayer","SSF-LXH240IGD","144.0300","81.2000","90","SSF-LXH240IGD, MHK2396EGBTD, 5530112F, WP934MD/LILGD, H-201C, LED-322"
+"LED1","SSF-LXH240IGD","TopLayer","SSF-LXH240IGD","144.0300","137.2000","90","SSF-LXH240IGD, MHK2396EGBTD, 5530112F, WP934MD/LILGD, H-201C, LED-322"
+"P2","BOX_2X5H","TopLayer","BOXH_2X5_HORIZONTAL_N","141.3900","97.2000","90","Header, 5-Pin, Dual row"
+"P1","BOX_2X5H","TopLayer","BOXH_2X5_HORIZONTAL_N","141.3900","121.2000","90","Header, 5-Pin, Dual row"
+"CN3","2X13_HEADER","TopLayer","HEADER_2X13_N","69.6200","120.6450","0","Header, 13-Pin, Dual row"
+"CN2","2X13_HEADER","TopLayer","HEADER_2X13_N","69.6200","97.7550","0","Header, 13-Pin, Dual row"
+"U1","SN74AVC4T774PWR","TopLayer","TSSOP-16_N","114.3000","126.2800","270","4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs"
+"U2","SN74AVC4T774PWR","TopLayer","TSSOP-16_N","114.3000","116.1200","270","4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs"
+"U3","SN74AVC4T774PWR","TopLayer","TSSOP-16_N","114.3000","102.2800","270","4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs"
+"U4","SN74AVC4T774PWR","TopLayer","TSSOP-16_N","114.3000","92.1200","270","4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level  Shifting and 3-State Outputs With Independent Direction Control Inputs"
+"R1","RES_AR3216","TopLayer","AR8_3216_N","127.0000","126.2800","90","Resistor Array, CAT16-J4 / EXB-V8V"
+"R2","RES_AR3216","TopLayer","AR8_3216_N","127.0000","116.1200","90","Resistor Array, CAT16-J4 / EXB-V8V"
+"R3","RES_AR3216","TopLayer","AR8_3216_N","127.0000","102.2800","90","Resistor Array, CAT16-J4 / EXB-V8V"
+"R4","RES_AR3216","TopLayer","AR8_3216_N","127.0000","92.1200","90","Resistor Array, CAT16-J4 / EXB-V8V"
+"R5","RES_1608","TopLayer","R1608_N","133.3500","137.2000","0","Resistor 1608"
+"R6","RES_1608","TopLayer","R1608_N","133.3500","132.1200","0","Resistor 1608"
+"R7","RES_1608","TopLayer","R1608_N","133.3500","81.2000","0","Resistor 1608"
+"R8","RES_1608","TopLayer","R1608_N","133.3500","86.2800","0","Resistor 1608"
+"R11","RES_1608","TopLayer","R1608_N","133.3500","126.2800","180","Resistor 1608"
+"R12","RES_1608","TopLayer","R1608_N","133.3500","116.1200","180","Resistor 1608"
+"R13","RES_1608","TopLayer","R1608_N","133.3500","102.2800","180","Resistor 1608"
+"U8","93LC46B-I/P","TopLayer","DIP-8_300","62.8650","131.4450","90","1Kb Microwire Serial EEPROM with 16-Bit Organization"
+"R14","RES_1608","TopLayer","R1608_N","101.6000","121.2000","0","Resistor 1608"
+"R15","RES_1608","TopLayer","R1608_N","101.6000","97.2000","0","Resistor 1608"
+"R16","RES_1608","TopLayer","R1608_N","73.6600","131.4450","270","Resistor 1608"
+"R17","RES_1608","TopLayer","R1608_N","71.1200","131.4450","270","Resistor 1608"
+"C1","CAP_1608","TopLayer","C1608_N","114.3000","131.3600","0","Capacitor 1608"
+"C2","CAP_1608","TopLayer","C1608_N","114.3000","121.2000","0","Capacitor 1608"
+"C3","CAP_1608","TopLayer","C1608_N","114.3000","107.3600","0","Capacitor 1608"
+"C4","CAP_1608","TopLayer","C1608_N","114.3000","97.2000","0","Capacitor 1608"
+"C5","CAP_1608","TopLayer","C1608_N","54.6100","86.9950","90","Capacitor 1608"
+"C6","CAP_1608","TopLayer","C1608_N","54.6100","131.4450","90","Capacitor 1608"
+"C7","CAP_1608","TopLayer","C1608_N","120.6500","131.3600","0","Capacitor 1608"
+"C8","CAP_1608","TopLayer","C1608_N","120.6500","121.2000","0","Capacitor 1608"
+"C9","CAP_1608","TopLayer","C1608_N","120.6500","107.3600","0","Capacitor 1608"
+"C10","CAP_1608","TopLayer","C1608_N","120.6500","97.2000","0","Capacitor 1608"
+"C11","CAP_1608","TopLayer","C1608_N","133.3500","97.2000","0","Capacitor 1608"
+"R9","RES_1608","TopLayer","R1608_N","114.3000","136.2000","0","Resistor 1608"
+"R10","RES_1608","TopLayer","R1608_N","114.3000","82.2000","0","Resistor 1608"
